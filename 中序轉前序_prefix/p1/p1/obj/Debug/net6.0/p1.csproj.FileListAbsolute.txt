@@ -1,0 +1,15 @@
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\bin\Debug\net6.0\p1.exe
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\bin\Debug\net6.0\p1.deps.json
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\bin\Debug\net6.0\p1.runtimeconfig.json
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\bin\Debug\net6.0\p1.dll
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\bin\Debug\net6.0\p1.pdb
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.csproj.AssemblyReference.cache
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.AssemblyInfoInputs.cache
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.AssemblyInfo.cs
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.csproj.CoreCompileInputs.cache
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.dll
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\refint\p1.dll
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.pdb
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\p1.genruntimeconfig.cache
+D:\全端練習\C#_演算法\中序轉前序\p1\p1\obj\Debug\net6.0\ref\p1.dll

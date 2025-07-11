@@ -1,0 +1,15 @@
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.csproj.AssemblyReference.cache
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.AssemblyInfoInputs.cache
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.AssemblyInfo.cs
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.csproj.CoreCompileInputs.cache
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\bin\Debug\net6.0\postfix.exe
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\bin\Debug\net6.0\postfix.deps.json
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\bin\Debug\net6.0\postfix.runtimeconfig.json
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\bin\Debug\net6.0\postfix.dll
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\bin\Debug\net6.0\postfix.pdb
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.dll
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\refint\postfix.dll
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.pdb
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\postfix.genruntimeconfig.cache
+D:\全端練習\C#_演算法\中序轉後序\postfix\postfix\obj\Debug\net6.0\ref\postfix.dll
