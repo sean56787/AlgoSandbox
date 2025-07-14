@@ -1,0 +1,15 @@
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\bin\Debug\net6.0\selection.exe
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\bin\Debug\net6.0\selection.deps.json
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\bin\Debug\net6.0\selection.runtimeconfig.json
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\bin\Debug\net6.0\selection.dll
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\bin\Debug\net6.0\selection.pdb
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.csproj.AssemblyReference.cache
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.AssemblyInfoInputs.cache
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.AssemblyInfo.cs
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.csproj.CoreCompileInputs.cache
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.dll
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\refint\selection.dll
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.pdb
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\selection.genruntimeconfig.cache
+D:\全端練習\AlgoSandbox\選擇排序\selection\selection\obj\Debug\net6.0\ref\selection.dll
