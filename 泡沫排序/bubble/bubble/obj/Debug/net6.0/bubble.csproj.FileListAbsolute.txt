@@ -1,0 +1,15 @@
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\bin\Debug\net6.0\bubble.exe
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\bin\Debug\net6.0\bubble.deps.json
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\bin\Debug\net6.0\bubble.runtimeconfig.json
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\bin\Debug\net6.0\bubble.dll
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\bin\Debug\net6.0\bubble.pdb
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.csproj.AssemblyReference.cache
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.AssemblyInfoInputs.cache
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.AssemblyInfo.cs
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.csproj.CoreCompileInputs.cache
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.dll
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\refint\bubble.dll
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.pdb
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\bubble.genruntimeconfig.cache
+D:\全端練習\AlgoSandbox\泡沫排序\bubble\bubble\obj\Debug\net6.0\ref\bubble.dll
