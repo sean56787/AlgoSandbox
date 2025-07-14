@@ -1,0 +1,15 @@
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\bin\Debug\net6.0\insertion.exe
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\bin\Debug\net6.0\insertion.deps.json
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\bin\Debug\net6.0\insertion.runtimeconfig.json
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\bin\Debug\net6.0\insertion.dll
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\bin\Debug\net6.0\insertion.pdb
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.csproj.AssemblyReference.cache
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.AssemblyInfoInputs.cache
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.AssemblyInfo.cs
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.csproj.CoreCompileInputs.cache
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.dll
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\refint\insertion.dll
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.pdb
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\insertion.genruntimeconfig.cache
+D:\全端練習\AlgoSandbox\插入排序\insertion\insertion\obj\Debug\net6.0\ref\insertion.dll

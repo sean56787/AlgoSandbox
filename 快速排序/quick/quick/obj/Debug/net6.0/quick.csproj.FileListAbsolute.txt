@@ -1,0 +1,15 @@
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\bin\Debug\net6.0\quick.exe
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\bin\Debug\net6.0\quick.deps.json
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\bin\Debug\net6.0\quick.runtimeconfig.json
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\bin\Debug\net6.0\quick.dll
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\bin\Debug\net6.0\quick.pdb
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.csproj.AssemblyReference.cache
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.AssemblyInfoInputs.cache
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.AssemblyInfo.cs
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.csproj.CoreCompileInputs.cache
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.dll
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\refint\quick.dll
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.pdb
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\quick.genruntimeconfig.cache
+D:\全端練習\AlgoSandbox\快速排序\quick\quick\obj\Debug\net6.0\ref\quick.dll
