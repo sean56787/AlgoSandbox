@@ -1,0 +1,15 @@
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\bin\Debug\net6.0\merge.exe
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\bin\Debug\net6.0\merge.deps.json
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\bin\Debug\net6.0\merge.runtimeconfig.json
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\bin\Debug\net6.0\merge.dll
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\bin\Debug\net6.0\merge.pdb
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.csproj.AssemblyReference.cache
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.AssemblyInfoInputs.cache
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.AssemblyInfo.cs
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.csproj.CoreCompileInputs.cache
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.dll
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\refint\merge.dll
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.pdb
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\merge.genruntimeconfig.cache
+D:\全端練習\AlgoSandbox\合併排序\merge\merge\obj\Debug\net6.0\ref\merge.dll
