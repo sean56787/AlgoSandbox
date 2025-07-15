@@ -1,0 +1,15 @@
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\bin\Debug\net6.0\BST.exe
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\bin\Debug\net6.0\BST.deps.json
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\bin\Debug\net6.0\BST.runtimeconfig.json
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\bin\Debug\net6.0\BST.dll
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\bin\Debug\net6.0\BST.pdb
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.csproj.AssemblyReference.cache
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.AssemblyInfoInputs.cache
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.AssemblyInfo.cs
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.csproj.CoreCompileInputs.cache
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.dll
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\refint\BST.dll
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.pdb
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\BST.genruntimeconfig.cache
+D:\全端練習\AlgoSandbox\二元樹\BST\BST\obj\Debug\net6.0\ref\BST.dll
