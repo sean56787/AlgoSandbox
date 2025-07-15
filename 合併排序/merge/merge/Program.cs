@@ -42,7 +42,7 @@ public class Program
             tmp[k++] = arr[j++];
         }
 
-        for(int z = 0; z < tmp.Length; z++)
+        for(int z = 0; z < tmp.Length; z++) //複製回原陣列
         {
             arr[left + z] = tmp[z];
         }
