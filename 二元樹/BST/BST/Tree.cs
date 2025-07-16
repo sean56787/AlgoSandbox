@@ -150,6 +150,8 @@ namespace BST
                 return node;
             }
 
+            //left==null? return right
+            //right==null? return left
             return left ?? right;
         }
     }
