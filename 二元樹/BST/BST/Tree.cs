@@ -77,14 +77,14 @@ namespace BST
             
         }
 
-        public bool Search(int value)
+        public Node? Search(int value)
         {
             return Search(root, value);
         }
-        private bool Search(Node? node, int value)
+        private Node? Search(Node? node, int value)
         {
-            if (node == null) return false;
-            if (value == node.value) return true;
+            if (node == null) return null;
+            if (value == node.value) return node;
             if (value < node.value) return Search(node.left, value);
             return Search(node.right, value);
         }
@@ -121,6 +121,36 @@ namespace BST
                 node = node.left;
 
             return node;
+        }
+
+        public int MaxDepth(Node? node)
+        {
+            if (node == null) return 0;
+
+            int leftDepth = MaxDepth(node.left);
+            int rightDepth = MaxDepth(node.right);
+
+            return Math.Max(leftDepth, rightDepth) + 1;
+        }
+
+        public Node? LCA(Node? node, Node p, Node q)
+        {
+            // 命中節點直接回傳
+            if(node == null || node == p || node == q)
+            {
+                return node;
+            }
+
+            var left = LCA(node.left, p, q);//下一層如果命中 這個left就當祖先
+            var right = LCA(node.right, p, q); //下一層如果命中 這個node就當祖先
+
+            //兩邊都命中
+            if (left != null && right != null) 
+            {
+                return node;
+            }
+
+            return left ?? right;
         }
     }
 }
