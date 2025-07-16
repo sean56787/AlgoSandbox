@@ -36,9 +36,14 @@ public class Program
         // Console.WriteLine(tree.MaxDepth(tree.root));
 
         //LCA最小共同祖先
-        Node? p = tree.Search(1);
-        Node? q = tree.Search(4);
+        //Node? p = tree.Search(1);
+        //Node? q = tree.Search(4);
 
-        Console.WriteLine($"LCA of {p} & {q}: " + tree.LCA(tree.root, p, q).value);
+        // Console.WriteLine($"LCA of {p} & {q}: " + tree.LCA(tree.root, p, q).value);
+
+        //valid BST
+        //tree.root.right.value = -1;
+        if (tree.isValidBST(tree.root)) Console.WriteLine("valid");
+        else Console.WriteLine("invalid");
     }
 }
