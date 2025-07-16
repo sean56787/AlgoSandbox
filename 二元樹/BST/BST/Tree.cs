@@ -76,5 +76,51 @@ namespace BST
             Console.Write(node.value + " ");
             
         }
+
+        public bool Search(int value)
+        {
+            return Search(root, value);
+        }
+        private bool Search(Node? node, int value)
+        {
+            if (node == null) return false;
+            if (value == node.value) return true;
+            if (value < node.value) return Search(node.left, value);
+            return Search(node.right, value);
+        }
+
+        public void Delete(int value)
+        {
+            root = Delete(root, value);
+        }
+
+        private Node? Delete(Node? node, int value)
+        {
+            if (node == null) return null;
+            if (value < node.value)
+                node.left = Delete(node.left, value);
+            else if (value > node.value)
+                node.right = Delete(node.right, value);
+            else // 找到了
+            {
+                // 只有一邊的情況
+                if (node.left == null) return node.right;
+                if(node.right == null) return node.left;
+                //兩邊都有子
+                Node successor = FindMin(node.right); // 從右子樹找最小值來代替
+                node.value = successor.value;
+                node.right = Delete(node.right, successor.value);
+            }
+
+            return node;
+        }
+
+        private Node FindMin(Node node) //找到最小
+        {
+            while (node.left != null)
+                node = node.left;
+
+            return node;
+        }
     }
 }

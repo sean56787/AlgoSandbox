@@ -10,8 +10,20 @@ public class Program
         foreach (var val in values)
             tree.Insert(val);
 
-        tree.PreorderTravel();
+        // tree.PreorderTravel();
+        // tree.InorderTravel();
+        // tree.PostderTravel();
         tree.InorderTravel();
-        tree.PostderTravel();
+        int target = 9;
+
+        tree.Insert(target);
+        tree.InorderTravel();
+
+        bool find = tree.Search(target);
+        if (find) Console.WriteLine($"{target} found");
+        else Console.WriteLine($"{target} not found");
+
+        tree.Delete(target);
+        tree.InorderTravel();
     }
 }
